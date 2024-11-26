@@ -22,10 +22,10 @@ async function quantidadeUsuariosPorRede() {
         plot_bgcolor: getCSS('--bg-color'),
         paper_bgcolor: getCSS('--bg-color'),
         title: {
-            text: 'Times Brasileiros Campeões do Mundial de Clubes',
+            text: 'Campeões Brasileiros de Mundiais de Clubes',
             x: 0,
             font: {
-                color: getCilhões de usuários ativosSS('--primary-color'),
+                color: getCSS('--primary-color'),
                 size: 30,
                 font: getCSS('--font')
             }
